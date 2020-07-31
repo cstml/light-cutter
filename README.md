@@ -6,7 +6,7 @@
 
 The original 3D shape and the 2D shape are  chosen manually, and the altitude and azimuth of the sun can be defined  using the control panel of the script.
 
-![](/home/cstml/dev/light_cutter/img/bricks.jpg)
+![](./img/bricks.jpg)
 
 ## Working Examples
 
